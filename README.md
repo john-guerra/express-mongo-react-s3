@@ -1,6 +1,8 @@
 # express-mongo-react-s3
 
-A very basic example on how to upload files to S3 from React using Node Express and Mongo
+A very basic example on how to upload files to S3 from React using Node Express and Mongo.
+
+Expects you to have AWS credentials initialized as environment variables
 
 ## Usage
 
